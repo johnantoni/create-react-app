@@ -2,7 +2,7 @@
   "name": "react-scripts-johnantoni",
   "version": "1.0.14",
   "description": "Configuration and scripts for Create React App.",
-  "repository": "facebookincubator/create-react-app",
+  "repository": "https://github.com/johnantoni/create-react-app/tree/master/packages/react-scripts",
   "license": "MIT",
   "engines": {
     "node": ">=6"
