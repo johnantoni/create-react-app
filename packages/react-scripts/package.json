@@ -1,6 +1,6 @@
 {
   "name": "react-scripts-johnantoni",
-  "version": "1.0.14",
+  "version": "1.0.14.1",
   "description": "Configuration and scripts for Create React App.",
   "repository": "https://github.com/johnantoni/create-react-app/tree/master/packages/react-scripts",
   "license": "MIT",
